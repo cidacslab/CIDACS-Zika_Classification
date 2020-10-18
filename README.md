@@ -24,7 +24,7 @@ Necessary packages:
 we use the Brazilian electronic records [RESP (Public Health Event Record)](http://www.resp.saude.gov.br) linked with [SINASC (Live Birth Information System)](sinasc.saude.gov.br).
 We use results obtained by the classification performed by a group of specialists described in the article [2] for training.
 
-Data from cranial circonferencing standards according to gender and week of development was obtained in [InterGrowth standards](https://intergrowth21.tghn.org)
+Data from cranial circonferencing standards according to gender and week of development was obtained from [InterGrowth standards](https://intergrowth21.tghn.org)
 
 ## Files
  * circumference.csv : Data from cranial circonferencing standards.
