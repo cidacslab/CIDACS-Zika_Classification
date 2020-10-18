@@ -21,15 +21,14 @@ Necessary packages:
 
 ## Input data
 
-we use the Brazilian electronic records RESP (Public Health Event Record) [2] linked with SINASC (Live Birth Information System) [3].
-For training, results obtained by the classification performed by a group of specialists described in the article were used [4].
+we use the Brazilian electronic records {RESP (Public Health Event Record)](http://www.resp.saude.gov.br) linked with [SINASC (Live Birth Information System)](sinasc.saude.gov.br).
+We use results obtained by the classification performed by a group of specialists described in the article [2] for training.
 
 ## Files
 
 To perform the study of time series analyses we collected the confirmed and discarded reported cases of each arbovirus per epidemiological week in Brazil, from 2015 to 2017.
 
 ## References 
-[1] Interdependence between confirmed and discarded cases of dengue, chikungunya and Zika viruses in Brazil: A multivariate time-series analysis, DOI:10.1371/journal.pone.0228347.
+[1] Classification algorithm of Congenital Zika Syndrome: characterizations, diagnosis and validation. (submited to Scientific Reports)
 
-[2] Seabold, Skipper and Perktold, Josef Statsmodels: Econometric and statistical modeling with python.
-9th Python in Science Conference, 2010. https://www.statsmodels.org/stable/index.html.
+[2] 
