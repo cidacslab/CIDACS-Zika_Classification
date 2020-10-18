@@ -21,14 +21,16 @@ Necessary packages:
 
 ## Input data
 
-we use the Brazilian electronic records {RESP (Public Health Event Record)](http://www.resp.saude.gov.br) linked with [SINASC (Live Birth Information System)](sinasc.saude.gov.br).
+we use the Brazilian electronic records [RESP (Public Health Event Record)](http://www.resp.saude.gov.br) linked with [SINASC (Live Birth Information System)](sinasc.saude.gov.br).
 We use results obtained by the classification performed by a group of specialists described in the article [2] for training.
 
-## Files
+Data from cranial circonferencing standards according to gender and week of development was obtained in [InterGrowth standards](https://intergrowth21.tghn.org)
 
-To perform the study of time series analyses we collected the confirmed and discarded reported cases of each arbovirus per epidemiological week in Brazil, from 2015 to 2017.
+## Files
+ * circumference.csv : Data from cranial circonferencing standards.
+ * 
 
 ## References 
 [1] Classification algorithm of Congenital Zika Syndrome: characterizations, diagnosis and validation. (submited to Scientific Reports)
 
-[2] 
+[2] França, Giovanny VA, et al. "Congenital Zika virus syndrome in Brazil: a case series of the first 1501 livebirths with complete investigation." The lancet 388.10047 (2016): 891-897.
