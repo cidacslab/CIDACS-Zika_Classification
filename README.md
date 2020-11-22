@@ -1,4 +1,4 @@
-# Classification algorithm of Congenital Zika Syndrome: characterizations, diagnosis and validation
+# Classification algorithm for Congenital Zika Syndrome: characterizations, diagnosis and validation
 
 ## Table of contents
 * [General info](#general-info)
@@ -36,6 +36,6 @@ Data from cranial circonferencing standards according to gender and week of deve
  * evaliation.ipynb : this script contains the analyses performed for the article
 
 ## References 
-[1] Classification algorithm of Congenital Zika Syndrome: characterizations, diagnosis and validation. (submited to Scientific Reports)
+[1] Classification algorithm for Congenital Zika Syndrome: characterizations, diagnosis and validation. (submited to Scientific Reports)
 
 [2] França, Giovanny VA, et al. "Congenital Zika virus syndrome in Brazil: a case series of the first 1501 livebirths with complete investigation." The lancet 388.10047 (2016): 891-897.
