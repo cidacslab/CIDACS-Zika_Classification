@@ -4,8 +4,8 @@
 * [General info](#general-info)
 * [Input data](#Input-data)
 * [Files](#files)
-* [How to build the classifier](#How to build the classifier)
-* [How to run the classifier](#How to run the classifier)
+* [How to build the classifier](#How-to-build-the-classifier)
+* [How to run the classifier](#How-to-run-the-classifier)
 * [References](#references)
 
 ## General info
