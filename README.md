@@ -29,7 +29,11 @@ Data from cranial circonferencing standards according to gender and week of deve
 ## Files
  * circumference.csv : Data from cranial circonferencing standards.
  * gerateData_RuleClass.py : this script organize database and applied rule classification.
- * classifier_1.py
+ * classifier_1.py: this script create a classify for group 1
+ * classifier_2.py: this script create a classify for group 2
+ * runClass1.py: this script performs group 1 classification
+ * runClass2.py: this script performs group 2 classification
+ * evaliation.ipynb : this script contains the analyses performed for the article
 
 ## References 
 [1] Classification algorithm of Congenital Zika Syndrome: characterizations, diagnosis and validation. (submited to Scientific Reports)
