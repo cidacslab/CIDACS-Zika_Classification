@@ -2,9 +2,10 @@
 
 ## Table of contents
 * [General info](#general-info)
-* [Compilation](#compilation)
 * [Input data](#Input-data)
 * [Files](#files)
+* [How to build the classifier](#How to build the classifier)
+* [How to run the classifier](#How to run the classifier)
 * [References](#references)
 
 ## General info
@@ -34,6 +35,21 @@ Data from cranial circonferencing standards according to gender and week of deve
  * runClass1.py: this script performs group 1 classification
  * runClass2.py: this script performs group 2 classification
  * evaliation.ipynb : this script contains the analyses performed for the article
+ 
+## How to build the classifier
+
+The data for construction of the classifiers could not be made available for ethical reasons. It is ultilized data of examinations of real people.
+Must run the scripts in the following order:
+1 gerateData_RuleClass.py 
+2 classifier_1.py
+3 classifier_2.py
+
+## How to run the classifier
+
+Must run the scripts in the following order:
+1 gerateData_RuleClass.py 
+2 runClass1.py.py
+3 runClass2.py.py
 
 ## References 
 [1] Classification algorithm for Congenital Zika Syndrome: characterizations, diagnosis and validation. (submited to Scientific Reports)
