@@ -2,6 +2,7 @@
 
 ## Table of contents
 * [General info](#general-info)
+* [Compilation](#compilation)
 * [Input data](#Input-data)
 * [Files](#files)
 * [How to build the classifier](#How-to-build-the-classifier)
