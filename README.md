@@ -31,6 +31,7 @@ Data from cranial circonferencing standards according to gender and week of deve
 ## Files
  * circumference.csv : Data from cranial circonferencing standards.
  * gerateData_RuleClass.py : this script organize database and applied rule classification.
+ * NLP.py : code for performing natural language processing
  * classifier_1.py: this script create a classify for group 1
  * classifier_2.py: this script create a classify for group 2
  * runClass1.py: this script performs group 1 classification
@@ -40,7 +41,7 @@ Data from cranial circonferencing standards according to gender and week of deve
  * stopWords.dat: this file contains all stopwords used.
  * classific1.dat : this file is the classify algorithm for Group 1
  * classific2.dat : this file is the classify algorithm for Group 2
- * evaliation.ipynb : this script contains the analyses performed for the article
+ * evaluation.ipynb : this script contains the analyses performed for the article
  
 ## How to build the classifier
 
