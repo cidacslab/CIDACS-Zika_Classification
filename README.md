@@ -36,9 +36,7 @@ Data from cranial circonferencing standards according to gender and week of deve
  * classifier_2.py: this script create a classify for group 2
  * runClass1.py: this script performs group 1 classification
  * runClass2.py: this script performs group 2 classification
- * words.txt: this file contains words used to classify text
- * map.dat : this file contains script for convert simmilar words.
- * stopWords.dat: this file contains all stopwords used.
+ * words.dat: this file contains words used to classify texts
  * classific1.dat : this file is the classify algorithm for Group 1
  * classific2.dat : this file is the classify algorithm for Group 2
  * evaluation.ipynb : this script contains the analyses performed for the article
