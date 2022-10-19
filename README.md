@@ -56,6 +56,11 @@ Must run the scripts in the following order:
 2 runClass1.py.py
 3 runClass2.py.py
 
+## Version with visual interface
+
+A version of the algorithm with visual interface can be dowload at the link:
+https://babraham-my.sharepoint.com/:f:/g/personal/valenter_babraham_ac_uk/EgmHHT36UB5Ml5Kbdk-RUAUBxJ6z3VBlkVUw4KtUbZhq-g
+
 ## References 
 [1] Classification algorithm for Congenital Zika Syndrome: characterizations, diagnosis and validation. (submited to Scientific Reports)
 
